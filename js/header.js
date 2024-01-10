@@ -3,7 +3,7 @@ function search(searchIconUrl) {
     var listIndex = -1;
     var hotList = 0;
     var searchData = userDefinedSearchData.custom ? userDefinedSearchData : {
-        "thisSearch": "https://www.bilibili.com/s?wd=",
+        "thisSearch": "https://www.baidu.com/s?wd=",
         "thisSearchIcon": "url(" + searchIconUrl + ")",
         "hotStatus": true,
         "custom": false,
