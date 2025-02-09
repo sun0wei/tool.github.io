@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2025-02-09T07:49:59.137Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>后悔の事</title>
+    <link href="https://www.fomal.cc/posts/b2c4a846.html"/>
+    <id>https://www.fomal.cc/posts/b2c4a846.html</id>
+    <published>2025-02-09T07:39:00.000Z</published>
+    <updated>2025-02-09T07:49:59.137Z</updated>
+    
+    <content type="html"><![CDATA[<h1>1.幼儿园阶段</h1><h1>2.小学阶段</h1><h1>3.初中阶段</h1><h1>4.高中阶段</h1><h2 id="4-1-事件一">4.1 事件一</h2><div class="tabs" id="分栏"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#分栏-1">事件</button></li><li class="tab"><button type="button" data-href="#分栏-2">感悟</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="分栏-1"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="分栏-2"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h2 id="4-2-事件二">4.2 事件二</h2><div class="tabs" id="分栏"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#分栏-1">事件</button></li><li class="tab"><button type="button" data-href="#分栏-2">感悟</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="分栏-1"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="分栏-2"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h1>5.大学阶段</h1>]]></content>
+    
+    
+    <summary type="html">用来记录我一生中所后悔の事，以警醒自己！</summary>
+    
+    
+    
+    <category term="日记" scheme="https://www.fomal.cc/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="后悔" scheme="https://www.fomal.cc/tags/%E5%90%8E%E6%82%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.fomal.cc/posts/0.html"/>
+    <id>https://www.fomal.cc/posts/0.html</id>
+    <published>2025-02-09T07:37:53.515Z</published>
+    <updated>2025-02-09T07:48:01.518Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
